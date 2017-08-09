@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "FilipEkberg_C-sharpSmorgasbord", "FilipEkberg_C-sharpSmorgasbord\FilipEkberg_C-sharpSmorgasbord.shproj", "{6C03B8E5-7AAF-4A09-8F25-A963B9BA3B59}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		FilipEkberg_C-sharpSmorgasbord\FilipEkberg_C-sharpSmorgasbord.projitems*{6c03b8e5-7aaf-4a09-8f25-a963b9ba3b59}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
