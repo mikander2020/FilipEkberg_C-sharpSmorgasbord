@@ -5,9 +5,21 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "FilipEkberg_C-sharpSmorgasbord", "FilipEkberg_C-sharpSmorgasbord\FilipEkberg_C-sharpSmorgasbord.shproj", "{6C03B8E5-7AAF-4A09-8F25-A963B9BA3B59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_FilipEkberg_C-sharpSmorgasbord", "Test_FilipEkberg_C-sharpSmorgasbord\Test_FilipEkberg_C-sharpSmorgasbord.csproj", "{F24733C2-880A-4763-AFF6-7CBB59215B72}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		FilipEkberg_C-sharpSmorgasbord\FilipEkberg_C-sharpSmorgasbord.projitems*{6c03b8e5-7aaf-4a09-8f25-a963b9ba3b59}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24733C2-880A-4763-AFF6-7CBB59215B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24733C2-880A-4763-AFF6-7CBB59215B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24733C2-880A-4763-AFF6-7CBB59215B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24733C2-880A-4763-AFF6-7CBB59215B72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
